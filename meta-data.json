@@ -1,17 +1,16 @@
 {
   "id": "left blank",
-  "title": "Guessless Project",
+  "title": "MyP13",
   "links": {
 	  "PDF": "",
 	  "Slides": "",
-	  "Video": "Eu7Z_zg069Q",
+	  "Video": "",
 	  "Code": ""
   },
-  "tags": ["ml", "ai"],
+  "tags": ["L3", ""],
   "authors": [
-    "Foo Bar",
-    "Freddy Mercury",
-    "Donald Trump",
-    "Peter Schmeichel"
+    "Nassim MESSAOUDI",
+    "Tarek NAIT SAADA",
+    "Marc JEAN PIERRE"
   ]
 }
