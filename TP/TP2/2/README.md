@@ -11,3 +11,8 @@
   - Fritzing sketch :
     ![sketch_LDR](https://user-images.githubusercontent.com/56651736/69505033-cdda5300-0f27-11ea-82f9-d717098d2891.png)
   
+- Compétences acquises:
+  - Serial communication concept.
+  - Serial communication usage.
+  - Serial python API.
+  - Fritzing sketch conception.
