@@ -4,8 +4,8 @@ import string
 import json
 
 """
-TODO get number of active connection using salleID which is the classroom's ID. Example: F205 
-     Real-time (get the current time & date and format it  pass it as one argument 'date(2019,11,27,0,8,0) --> 27-11-2019 8:00)
+TODO get number of active connections using salleID which is the classroom's ID. Example: F205 
+     Real-time --> (get the current time & date and format it then pass it as one argument 'date(2019,11,27,0,8,0) --> 27-11-2019 8:00)
 """
   #def get_nb_active_connections(dict, salleID):
 
@@ -13,7 +13,7 @@ def main(file):
     try:
         with open(file) as json_data:
               d = json.load(json_data)
-              print('[+] JSON data has been successfully converted to python dictionnary !')          
+              print('[+] JSON data has been successfully converted to python dictionnary type !')          
               #print(d)
     except IOError as e: 
         print('Error: ', e)
