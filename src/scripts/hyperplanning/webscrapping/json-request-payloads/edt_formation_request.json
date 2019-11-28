@@ -1,0 +1,33 @@
+{
+    "session": 3157112,
+    "numeroOrdre": "45C48CCE2E2D7FBDEA1AFC51C7C6AD26c7b271c16e6288e351c6ba2cca1163ab",
+    "nom": "FonctionEmploiDuTemps",
+    "donneesSec": {
+        "_Signature_": {
+            "Onglet": "SALLE.EDT.EDT_GRILLE",
+            "listeRecherche": [
+                {
+                    "N": "495CA12BBE067E",
+                    "G": 3,
+                    "L": "G207 (IG)"
+                }
+            ]
+        },
+        "donnees": {
+            "GenrePeriodeEDT": 2,
+            "GenreAffichageEDT": 0,
+            "FiltreRessources": {
+                "_T": 26,
+                "V": "[0,6..7]"
+            },
+            "AvecIndisponibilites": true,
+            "AvecDomaineCours": true,
+            "AvecDomainePere": false,
+            "filterPlagesHoraires": true,
+            "Domaine": {
+                "_T": 8,
+                "V": "[14]"
+            }
+        }
+    }
+}
