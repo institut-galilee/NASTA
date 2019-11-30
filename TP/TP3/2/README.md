@@ -1,7 +1,7 @@
--This the part.2 of the tp 3.
--We connect our arduino to ESP32 using I2C.
--Code for ESP32 for being in Master mode :
-      #include <Wire.h>
+This the part.2 of the tp 3.
+We connect our arduino to ESP32 using I2C.
+Code for ESP32 for being in Master mode :
+     ` #include <Wire.h>
       // Include the required Wire library for I2C<br>#include 
       int x = 0;
       void setup() {
@@ -13,13 +13,14 @@
         Wire.write(x);              // sends x 
         Wire.endTransmission();    // stop transmitting
         x++; // Increment x
-        if (x > 5) x = 0; // `reset x once it gets 6
+        if (x > 5) x = 0; // reset x once it gets 6
         delay(500);
       }
+      `
 
--Code for Slave, here the arduino :
+Code for Slave, here the arduino :
 
-      #include <Wire.h>
+     ` #include <Wire.h>
 
       // Include the required Wire library for I2C<br>#include <Wire.h>
       int LED = LED_BUILTIN;
@@ -55,6 +56,7 @@
           delay(400);
         }
       }
+      `
 ![ARDUINOESP32](https://github.com/institut-galilee/NASTA/blob/master/TP/TP3/2/WhatsApp%20Image%202019-11-30%20at%2018.49.17.jpeg)
   
 
