@@ -18,8 +18,6 @@ The esp 32 read data on :
 
 And write it to the serial.
 
-[InternetShortcut]
-URL=https://github.com/institut-galilee/NASTA/blob/master/TP/TP3/4/part4-2.jpeg
+![InternetShortcut](URL=https://github.com/institut-galilee/NASTA/blob/master/TP/TP3/4/part4-2.jpeg)
 
-[InternetShortcut]
-URL=https://github.com/institut-galilee/NASTA/blob/master/TP/TP3/4/part4-1.jpeg
+![InternetShortcut](URL=https://github.com/institut-galilee/NASTA/blob/master/TP/TP3/4/part4-1.jpeg)
