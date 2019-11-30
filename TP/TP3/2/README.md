@@ -1,5 +1,7 @@
 This is the part 2 of the tp 3.
+
 We connect our arduino to ESP32 using I2C.
+
 Code for ESP32 for being in Master mode :
 
       #include <Wire.h>
