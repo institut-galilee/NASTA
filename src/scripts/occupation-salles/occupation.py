@@ -7,7 +7,7 @@ from urllib.error import URLError, HTTPError
 # Usage example : python3 occupation.py -g quart -d "2019-12-04" -f "2019-12-04" -r reqId:1 -v -o data.json 
 
 """
-   Cleans the response and the write to the json file provided as an argument (also has verbose mode with the "-v" option)
+   Cleans the response and then writes it to the json file provided as an argument (also has verbose mode with the "-v" option)
 """
 def jsonresponse2file(file, response)
    
