@@ -7,7 +7,7 @@ url = "https://hyperplanning.univ-paris13.fr/hp2109/invite/"
 
 session = requests.Session()
 numeroOrdre = '45C48CCE2E2D7FBDEA1AFC51C7C6AD26fb1600e1708b109e5ef12bcb46c8d631' # Doesn't work obv
-print(str(session))
+
 
 jar = requests.cookies.RequestsCookieJar()
 jar.set('resolution','1920x1080')
