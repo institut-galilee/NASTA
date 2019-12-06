@@ -9,7 +9,7 @@ from urllib.error import URLError, HTTPError
 """
    Cleans the response and then writes it to the json file provided as an argument (also has verbose mode with the "-v" option)
 """
-def jsonresponse2file(file, response)
+def jsonresponse2file(file, response):
    
    try:   
       with open(file, 'w') as out_file:
@@ -51,7 +51,7 @@ def clean_request_data(data):
 if __name__ == "__main__":
    
    verbose = 0
-   base_url = "https://si-galilee.univ-paris13.fr/salles/occupation_data?"
+   base_url = "https://si-galilee.univ-paris13.fr/salles/occupation_data?"firebase
   
    try:
       opts, args = getopt.getopt(sys.argv[1:],"g:d:f:r:o:hv", ['grain=','debut=','fin=','requestID=','outputfile=','verbose'])
