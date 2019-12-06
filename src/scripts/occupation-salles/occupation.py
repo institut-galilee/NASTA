@@ -45,7 +45,7 @@ def construct_final_url(base_url,grain,debut,fin,reqID):
 def clean_request_data(data):
    data_to_delete = "bgoogle.visualization.Query.setResponse("
    len_ = len(data_to_delete)
-   json_output = data_to_string[len_ + 1:-3]
+   json_output = data[len_ + 1:-3]
    return json_output
 
 if __name__ == "__main__":
