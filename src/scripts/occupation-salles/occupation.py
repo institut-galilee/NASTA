@@ -47,8 +47,6 @@ def clean_request_data(data):
    len_ = len(data_to_delete)
    json_output = data_to_string[len_ + 1:-3]
    return json_output
- 
-   def
 
 if __name__ == "__main__":
    
