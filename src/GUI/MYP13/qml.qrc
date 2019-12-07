@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/paris13.png</file>
+        <file>images/Insitut-Galilee.png</file>
+        <file>menu1.qml</file>
+        <file>login.qml</file>
+        <file>planning.qml</file>
+        <file>images/images1.jpg</file>
+        <file>images/Images10.jpg</file>
+        <file>images/Images11.jpg</file>
+        <file>images/Images12.jpg</file>
+        <file>images/Images2.jpg</file>
+        <file>images/Images3.jpg</file>
+        <file>images/Images5.jpg</file>
+        <file>images/Images6.jpg</file>
+        <file>images/Images7.jpg</file>
+        <file>images/Images8.jpg</file>
+        <file>images/Images9.jpg</file>
+        <file>planning_ann.qml</file>
+        <file>occupation.qml</file>
+        <file>plan_univ.qml</file>
+        <file>images/images13.jpg</file>
+        <file>menu2.qml</file>
+        <file>infos.qml</file>
+        <file>signaler.qml</file>
+        <file>stockage.qml</file>
+        <file>quotas.qml</file>
+        <file>izly.qml</file>
+        <file>images/eventindicator.png</file>
+        <file>images/plan1.jpg</file>
+        <file>images/plan2.jpg</file>
+        <file>images/blank.svg</file>
+    </qresource>
+</RCC>
