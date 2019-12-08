@@ -3,7 +3,6 @@
 import sys, getopt
 import string 
 import json
-import re
 from datetime import date,datetime
 import string
 import sqlite3
@@ -13,7 +12,7 @@ TODO get number of active connections using salleID which is the classroom's ID.
      Real-time --> (get the current time & date and format it then pass it as one argument 'date(2019,11,27,0,8,0) --> 27-11-2019 8:00)
 """
 
-#def get_nb_active_connections(dict, salleID):
+def get_nb_active_connections(dict, salleID):
     
 
 """ 
@@ -41,15 +40,17 @@ def display_dictionnary_info(dic):
 
 
 def recupesalleinfo(dictionnary):
+    
     try:
         #connection to the database.
         #Creates if it doesn't exist
         connexion = sqlite3.connect("occupation_DataBase.db")
         curseur = connexion.cursor()
         #Request for CREATE TABLE 'salleinfo'
+        
         curseur.execute('''CREATE TABLE IF NOT EXISTS salleinfo(
                            id INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,
-                           dates TEXT default (NULL),
+                           dates TEXT default (NULL) UNIQUE,
                            total TEXT default (NULL),
                            F200 TEXT default (NULL),
                            F201 TEXT default (NULL),
