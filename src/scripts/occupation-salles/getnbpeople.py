@@ -49,7 +49,7 @@ def recupesalleinfo(dictionnary):
         #Request for CREATE TABLE 'salleinfo'
         curseur.execute('''CREATE TABLE IF NOT EXISTS salleinfo(
                            id INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,
-                           dates TEXT default (NULL),
+                           dates TEXT default (NULL) UNIQUE,
                            total TEXT default (NULL),
                            F200 TEXT default (NULL),
                            F201 TEXT default (NULL),
