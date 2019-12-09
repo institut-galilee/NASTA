@@ -51,8 +51,7 @@ def clean_request_data(data):
 if __name__ == "__main__":
    
    verbose = 0
-   base_url = "https://si-galilee.univ-paris13.fr/salles/occupation_data?"firebase
-  
+   base_url = "https://si-galilee.univ-paris13.fr/salles/occupation_data?"
    try:
       opts, args = getopt.getopt(sys.argv[1:],"g:d:f:r:o:hv", ['grain=','debut=','fin=','requestID=','outputfile=','verbose'])
    except getopt.GetoptError:
