@@ -44,7 +44,7 @@ def recupesalleinfo(dictionnary):
     try:
         #connection in the database.
         #Create if it not exist
-        connexion = sqlite3.connect("occupation_DataBase.db")
+        connexion = sqlite3.connect("occupation.db")
         curseur = connexion.cursor()
         #Request for CREATE TABLE 'salleinfo'
         curseur.execute('''CREATE TABLE IF NOT EXISTS salleinfo(
