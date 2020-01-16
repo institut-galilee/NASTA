@@ -20,7 +20,7 @@ def jsonresponse2file(file, response):
             print('[+] Successfully written data to '+ file + '\n')
             if verbose == 1 : 
                print('[+] Generated your request in json format\n')
-               print(json_output+'\n')
+               #print(json_output+'\n')
    except IOError as e:
          print("Error: ", e, "Check permissions !")   
 
@@ -47,11 +47,14 @@ def clean_request_data(data):
    len_ = len(data_to_delete)
    json_output = data[len_ + 1:-3]
    return json_output
+ 
+
 
 if __name__ == "__main__":
    
    verbose = 0
    base_url = "https://si-galilee.univ-paris13.fr/salles/occupation_data?"
+  
    try:
       opts, args = getopt.getopt(sys.argv[1:],"g:d:f:r:o:hv", ['grain=','debut=','fin=','requestID=','outputfile=','verbose'])
    except getopt.GetoptError:
@@ -86,4 +89,3 @@ if __name__ == "__main__":
    else:
       print('[+] Server is UP and responded to your request')      
       jsonresponse2file(outfile, response)
-  
