@@ -43,7 +43,7 @@ def display_dictionnary_info(dic):
 def recupesalleinfo(dictionnary):
     try:
         #connection in the database.
-        #Create if it not exist
+        #create if it doesn't exist
         connexion = sqlite3.connect("occupation.db")
         curseur = connexion.cursor()
         #Request for CREATE TABLE 'salleinfo'
@@ -65,15 +65,15 @@ def recupesalleinfo(dictionnary):
             for row2 in row.values():
               j=0
               #Type: tuple
-              #Description: that tuple will containt all the values will need on the request.
+              #Description: this turple contains all the values that we will need on the request.
               placeholders=()    
               columns = ', '.join(liste_id) #create columns list for the request.
               values.append(row2)
-              liste_value=values[i] #the value is a dict, then it's a list of [dictionnary of dictionnary].
+              liste_value=values[i] #the value is a dict so we have a dict of dict [dictionnary of dictionnary].
               for cmpt in liste_value:
-                listedict=liste_value[j] #extract the last dictionnary, then is juste a list of dictionnary.
-                valeurdict=(str(listedict['v'])) #here extract the value of the dictionnary.            
-                placeholders = placeholders +(valeurdict,) #insert the value in the tuple for the request.
+                listedict=liste_value[j] #extract the last dictionary, so we only have a dictionary list.
+                valeurdict=(str(listedict['v'])) #here we extract the values contained in the dictionary.            
+                placeholders = placeholders +(valeurdict,) #insert the values in the tuple for the request.
                 j=j+1
 
               i=i+1    
