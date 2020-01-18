@@ -44,6 +44,8 @@ def recupesalleinfo(dictionnary):
     try:
         #connection in the database.
         #create if it doesn't exist
+        if (os.path.isfile("occupation.db")):
+            os.system("rm occupation.db")
         connexion = sqlite3.connect("occupation.db")
         curseur = connexion.cursor()
         #Request for CREATE TABLE 'salleinfo'
@@ -86,7 +88,8 @@ def recupesalleinfo(dictionnary):
             
             curseur.execute(query)
             connexion.commit()
-          i=i+1 
+          i=i+1
+         connexion.close()
     except sqlite3.Error as e:
             self.log.error("Database error: %s" % e)
     except Exception as e:
