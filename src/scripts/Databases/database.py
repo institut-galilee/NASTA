@@ -88,21 +88,21 @@ def db_write():
         description TEXT,
         location TEXT,
         startdate DATE,
-        starthoure TEXT,
+        starthour TEXT,
         enddate DATE,
-        endhoure TEXT
+        endhour TEXT
         )''')
         for event in events:
                     ojd=datetime.now()
                     ojd_t=type(ojd)
                     if(isinstance(event.start,ojd_t) and isinstance(event.end,ojd_t)):
                         startdate=event.start.date()
-                        starthoure=str(event.start.time())
+                        starthour=str(event.start.time())
                         enddate=event.end.date()
-                        endhoure=str(event.end.time())
+                        endhour=str(event.end.time())
 
-                        values = (event.summary,event.description, event.location, startdate, starthoure, enddate, endhoure)
-                        curseur.execute('''INSERT INTO hyperplanning (summary,description,location,startdate,starthoure,enddate,endhoure) VALUES (?, ?, ?, ?, ?, ?, ?)''', values)
+                        values = (event.summary,event.description, event.location, startdate, starthour, enddate, endhour)
+                        curseur.execute('''INSERT INTO hyperplanning (summary,description,location,startdate,starthour,enddate,endhour) VALUES (?, ?, ?, ?, ?, ?, ?)''', values)
                         connexion.commit()
                     else:
                         values = (event.summary,event.description, event.location, event.start,event.end)
