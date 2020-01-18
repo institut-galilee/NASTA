@@ -94,12 +94,12 @@ def csv_write(icsfile):
     try:
         with open(csvfile, 'r') as myfile:
             df = pandas.read_csv(csvfile, index_col='Summary')
-            df = df.sort_values(by=['Start Time'], ascending=True)
+            df = df.sort_values(by=['Start Time'], ascending=True)  #ascending order of CSV with panda
             df.to_csv('./doc/trier.csv')
     except IOError:
         print("Could not open file! Please close Excel!")
         exit(0)
-        #ordre croissant csv avec panda
+       
 
 #debug_event(event)
 def debug_event(class_name):
