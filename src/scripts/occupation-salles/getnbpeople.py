@@ -89,7 +89,7 @@ def recupesalleinfo(dictionnary):
             curseur.execute(query)
             connexion.commit()
           i=i+1
-         connexion.close()
+        connexion.close()
     except sqlite3.Error as e:
             self.log.error("Database error: %s" % e)
     except Exception as e:
