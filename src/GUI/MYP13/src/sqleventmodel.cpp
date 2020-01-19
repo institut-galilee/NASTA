@@ -12,7 +12,7 @@ SqlEventModel::SqlEventModel()
 
 QList<QObject*> SqlEventModel::eventsForDate(const QDate &date)
 {
-    const QString queryStr = QString::fromLatin1("SELECT * FROM hyperplanning WHERE '%1' >= startdate AND '%1' <= enddate order by startdate,starthoure").arg(date.toString("yyyy-MM-dd"));
+    const QString queryStr = QString::fromLatin1("SELECT * FROM hyperplanning WHERE '%1' >= startdate AND '%1' <= enddate order by startdate,starthour").arg(date.toString("yyyy-MM-dd"));
     QSqlQuery query(queryStr);
     if (!query.exec())
         qFatal("Query failed");
@@ -24,13 +24,13 @@ QList<QObject*> SqlEventModel::eventsForDate(const QDate &date)
 
         QDateTime startDate;
         startDate.setDate(query.value("startdate").toDate());
-        startDate.setTime(query.value("starthoure").toTime().addSecs(3600));
+        startDate.setTime(query.value("starthour").toTime().addSecs(3600));
        event->setStartDate(startDate);
 
 
        QDateTime endDate;
         endDate.setDate(query.value("enddate").toDate());
-        endDate.setTime(query.value("endhoure").toTime().addSecs(3600));
+        endDate.setTime(query.value("endhour").toTime().addSecs(3600));
         event->setEndDate(endDate);
 
         events.append(event);
