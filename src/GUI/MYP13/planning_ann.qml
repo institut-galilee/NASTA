@@ -34,12 +34,22 @@ Item {
                    Text {
                        id: element
                        x: 357
-                       y: 34
+                       y: 8
                        color: "#fdfdfd"
                        text: qsTr("Planning Annuel")
                        font.capitalization: Font.AllUppercase
                        font.weight: Font.ExtraLight
                        font.pixelSize: 35
+                   }
+
+                   Image {
+                       id: image1
+                       x: 46
+                       y: 57
+                       width: 932
+                       height: 499
+                       source: "images/L3CAL.jpg"
+                       fillMode: Image.Stretch
                    }
                }
 
@@ -49,10 +59,10 @@ Item {
 
     Rectangle {
         id: rectangle6
-        x: 38
-        y: 546
+        x: 37
+        y: 557
         width: 65
-        height: 47
+        height: 43
         color: "#5ee7df"
         radius: 10
         gradient: Gradient {
@@ -83,6 +93,10 @@ Item {
         }
 
         MouseArea {
+            anchors.rightMargin: 0
+            anchors.bottomMargin: -1
+            anchors.leftMargin: 1
+            anchors.topMargin: 2
             anchors.fill: parent
             onClicked: {
                 root.back()

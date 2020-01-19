@@ -1,7 +1,7 @@
 import QtQuick 2.11
 import QtQuick.Controls 2.4
 import QtQuick.Window 2.11
-
+import QtQuick.VirtualKeyboard 2.4
 ApplicationWindow {
     id: root
     //anchors.fill: parent
@@ -206,7 +206,7 @@ ApplicationWindow {
             visible: true
             onClicked:{
                 id_loader.source = ""
-                id_loader.source = "menu1.qml"
+                id_loader.source = "splash.qml"
                 var scene = null
                 scene = id_loader.item
                 scene.desc=desc
@@ -215,7 +215,7 @@ ApplicationWindow {
                 scene.dateTimeString=dateTimeString
                 scene.temp=temp
                 scene.updateState=updateState
-                scene.back.connect(closeScene)
+              //  scene.back.connect(closeScene)
 
             }
 

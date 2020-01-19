@@ -1,9 +1,11 @@
 import QtQuick 2.11
 import QtQuick.Controls 2.4
 import QtQuick.Window 2.2
+import QtQuick.VirtualKeyboard 2.4
+import com.load 1.0
 
 ApplicationWindow {
-    id: root
+    id: menu1
     flags: Qt.FramelessWindowHint
     visible: true
     width: 1024
@@ -13,6 +15,10 @@ ApplicationWindow {
     color: "#2a0859"
     signal back
 
+    Loading{
+        id:ld
+    }
+
     property bool updateState: true
 
     property date currentDate
@@ -21,6 +27,12 @@ ApplicationWindow {
     property variant codeList
     property string desc
     property int temp
+    property  bool sent:false
+    property int numetu: parseInt(ld.getnume())
+    property string name: ld.getname()
+    property string mail: ld.getmail()
+    property string formation: ld.getformation()
+    property string pw: ld.getpw(numetu)
 
 
     Timer {
@@ -74,7 +86,7 @@ ApplicationWindow {
             y: 3
             color: "#f9f9f9"
             anchors.centerIn: parent
-             text: 'Paris ' + temp + '°'
+            text: 'Paris ' + temp + '°'
             verticalAlignment: Text.AlignVCenter
             horizontalAlignment: Text.AlignHCenter
             opacity: 1
@@ -171,21 +183,6 @@ ApplicationWindow {
                 font.weight: Font.Light
                 horizontalAlignment: Text.AlignHCenter
             }
-
-            MouseArea {
-                id: mouseArea8
-                x: 0
-                y: 0
-                width: 206
-                height: 118
-                onClicked:{
-                    pageLoader.source = ""
-                    pageLoader.source = "signaler.qml"
-                    var scene = null
-                    scene = pageLoader.item
-                    scene.back.connect(closeScene)
-                }
-            }
         }
 
         Rectangle {
@@ -196,31 +193,6 @@ ApplicationWindow {
             height: 88
             color: "#00000000"
             visible: true
-
-            MouseArea {
-                id: mouseArea7
-                x: 0
-                y: 0
-                width: 290
-                height: 88
-                visible: true
-                onClicked:{
-                    pageLoader.source = ""
-                    pageLoader.source = "menu2.qml"
-
-                    var scene = null
-                    scene = pageLoader.item
-                    scene.desc=desc
-                    scene.currentDate = currentDate
-                    scene.codeList=codeList
-                    scene.dateTimeString=dateTimeString
-                    scene.temp=temp
-                    scene.updateState=updateState
-                    scene.back.connect(closeScene)
-
-                }
-
-            }
         }
         Rectangle {
             id: rectangle1
@@ -471,6 +443,7 @@ ApplicationWindow {
                 font.pixelSize: 23
             }
 
+
         }
 
         Image {
@@ -483,72 +456,116 @@ ApplicationWindow {
             source: "images/paris13.png"
             fillMode: Image.Stretch
 
-            MouseArea {
-                id: mouseArea6
-                x: 295
-                y: 109
-                width: 100
-                height: 100
-            }
         }
 
         Rectangle {
             id: rectangle6
-            x: 38
-            y: 546
-            width: 65
-            height: 47
+            x: 31
+            y: 529
+            width: 227
+            height: 55
             color: "#5ee7df"
             radius: 10
             gradient: Gradient {
                 GradientStop {
                     position: 0
-                    color: "#5f72bd"
+                    color: "#ff867a"
+                }
+
+                GradientStop {
+                    position: 0.21
+                    color: "#ff8c7f"
+                }
+
+                GradientStop {
+                    position: 0.52
+                    color: "#f99185"
+                }
+
+                GradientStop {
+                    position: 0.78
+                    color: "#cf556c"
                 }
 
                 GradientStop {
                     position: 1
-                    color: "#9b23ea"
+                    color: "#b12a5b"
                 }
             }
             border.width: 1
             border.color: "#f2f2f4"
+
             TextInput {
                 id: textInput5
-                x: -14
-                y: 9
-                width: 94
+                x: 11
+                y: 14
+                width: 209
                 height: 32
                 color: "#fdfdfd"
-                text: qsTr("<-")
+                text: qsTr("Se Déconnecter")
                 horizontalAlignment: Text.AlignHCenter
-                font.capitalization: Font.MixedCase
-                font.weight: Font.DemiBold
+                font.capitalization: Font.AllUppercase
+                font.weight: Font.Light
                 font.pixelSize: 23
             }
 
-            MouseArea {
-                anchors.fill: parent
-                onClicked: {
-                    root.back()
-                    root.close()
-                }
+        }
+
+        MouseArea {
+            id:mouseArea9
+            x: 31
+            y: 529
+            width: 227
+            height: 55
+            onClicked: {
+                menu1.back()
+                menu1.close()
+                ld.disconnect()
             }
         }
 
         MouseArea {
-            id: mouseArea
+            id: mouseArea8
             x: 762
-            y: 351
+            y: 176
             width: 206
             height: 118
             onClicked:{
                 pageLoader.source = ""
-                pageLoader.source = "login.qml"
+                pageLoader.source = "signaler.qml"
                 var scene = null
                 scene = pageLoader.item
+                scene.sent=sent
+                scene.email=mail
                 scene.back.connect(closeScene)
             }
+        }
+
+        MouseArea {
+            id: mouseArea7
+            x: 764
+            y: 351
+            width: 204
+            height: 118
+            visible: true
+            onClicked:{
+                pageLoader.source = ""
+                pageLoader.source = "menu2.qml"
+
+                var scene = null
+                scene = pageLoader.item
+                scene.desc=desc
+                scene.currentDate = currentDate
+                scene.codeList=codeList
+                scene.dateTimeString=dateTimeString
+                scene.temp=temp
+                scene.name=name
+                scene.formation=formation
+                scene.updateState=updateState
+                scene.back.connect(closeScene)
+
+            }
+
         }
 
         MouseArea {
@@ -615,15 +632,18 @@ ApplicationWindow {
 
 
 
+
+
+
     }
     Rectangle {
         id: topArea
         anchors {
-            top: root.top
-            left: root.left
-            right: root.right
+            top: menu1.top
+            left: menu1.left
+            right: menu1.right
         }
-        height: root.height * 0.15
+        height: menu1.height * 0.15
         color: "transparent"
 
 
@@ -658,6 +678,18 @@ ApplicationWindow {
             horizontalAlignment: Text.AlignLeft
             font.pixelSize: 20
             font.italic: false
+
+            Text {
+                id: element1
+                x: 90
+                y: 88
+                width: 443
+                height: 33
+                color: "#ffffff"
+                text: qsTr("BONJOUR   M.    ") + name + "    -    " +formation
+                font.capitalization: Font.AllUppercase
+                font.pixelSize: 25
+            }
         }
 
 

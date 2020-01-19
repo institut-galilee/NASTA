@@ -4,7 +4,6 @@
         <file>images/paris13.png</file>
         <file>images/Insitut-Galilee.png</file>
         <file>menu1.qml</file>
-        <file>login.qml</file>
         <file>planning.qml</file>
         <file>images/images1.jpg</file>
         <file>images/Images10.jpg</file>
@@ -24,12 +23,14 @@
         <file>menu2.qml</file>
         <file>infos.qml</file>
         <file>signaler.qml</file>
-        <file>stockage.qml</file>
         <file>quotas.qml</file>
         <file>izly.qml</file>
         <file>images/eventindicator.png</file>
         <file>images/plan1.jpg</file>
         <file>images/plan2.jpg</file>
         <file>images/blank.svg</file>
+        <file>splash.qml</file>
+        <file>images/L3CAL.jpg</file>
+        <file>images/splash.qml</file>
     </qresource>
 </RCC>

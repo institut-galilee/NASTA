@@ -2,23 +2,22 @@ import QtQuick 2.11
 import QtQuick.Controls 1.4
 import QtQuick.Controls.Private 1.0
 import QtQuick.Controls.Styles 1.1
-import org.qtproject.examples.calendar 1.0
+import com.calendar 1.0
 
 
 
 
-    ApplicationWindow {
+    Item {
         id:root
         signal back
-         flags: Qt.FramelessWindowHint
+
         visible: true
         width: 1024
         height:  600
         x:0
         y:0
-        minimumWidth: 400
-        minimumHeight: 300
-        color: "#2a0859"
+
+
 
         SystemPalette {
             id: systemPalette
@@ -26,6 +25,21 @@ import org.qtproject.examples.calendar 1.0
 
         SqlEventModel {
             id: eventModel
+        }
+
+        Rectangle {
+            id: rectangle
+            x: 0
+            y: 0
+            width: 1024
+            height: 600
+            color: "#46208e"
+
+            MouseArea {
+                id: mouseArea1
+                width: 1024
+                height: 600
+            }
         }
 
         Flow {
@@ -195,6 +209,7 @@ import org.qtproject.examples.calendar 1.0
             }
         }
 
+
         Text {
             id: element
             x: 0
@@ -209,6 +224,7 @@ import org.qtproject.examples.calendar 1.0
             font.pixelSize: 38
         }
 
+
         MouseArea {
             id: mouseArea
             x: 0
@@ -217,10 +233,9 @@ import org.qtproject.examples.calendar 1.0
             height: 71
             onClicked:{
                 root.back()
-                root.close()
-
+            }
         }
-    }
+
     }
 
 
