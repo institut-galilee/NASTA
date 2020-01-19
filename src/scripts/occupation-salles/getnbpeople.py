@@ -42,11 +42,11 @@ def display_dictionnary_info(dic):
 
 def recupesalleinfo(dictionnary):
     try:
-        #connection in the database.
+        #connection to the database
         #create if it doesn't exist
         if (os.path.isfile("occupation.db")):
             os.system("rm occupation.db")
-        connexion = sqlite3.connect("occupation.db")
+        connexion = sqlite3.connect("occupation.db") 
         curseur = connexion.cursor()
         #Request for CREATE TABLE 'salleinfo'
         curseur.execute('''CREATE TABLE IF NOT EXISTS salleinfo(
@@ -60,14 +60,14 @@ def recupesalleinfo(dictionnary):
         liste_id=['dates','total','F200','F201','F202','F203','F204','F205','F206','F207','G207','G208','G209','G210','G211','G212','G215']
 
         #Type: list
-        #Descition: use for extract value from dictionnary.
+        #Description: used toextract values from dictionnary.
         values=[]
         i=0
         for row in dictionnary['table']['rows']:          
             for row2 in row.values():
               j=0
               #Type: tuple
-              #Description: this turple contains all the values that we will need on the request.
+              #Description: this tuple contains all the values that we will need for the request.
               placeholders=()    
               columns = ', '.join(liste_id) #create columns list for the request.
               values.append(row2)
@@ -79,7 +79,7 @@ def recupesalleinfo(dictionnary):
                 j=j+1
 
               i=i+1    
-        print("Database crée.")
+        print("[+] Database created.")
         i=0
         requete_columns = ("salle", "occupation")
         for room in liste_id:
@@ -95,7 +95,9 @@ def recupesalleinfo(dictionnary):
     except Exception as e:
             self.log.error("Exception in _query: %s" % e)
 
-
+""" 
+Function that converts json data to dictionnary type
+"""
 def json2dict():
   try:
     today = str(date.today())
