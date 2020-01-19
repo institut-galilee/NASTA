@@ -1,3 +1,6 @@
 # MyP13
 
-Hello - Azul 
+Hello ! 
+
+This is the official repository for the MyP13 project.
+
