@@ -1,0 +1,2317 @@
+{
+  "html": {
+    "head": {
+      "meta": {
+        "@http-equiv": "content-type",
+        "@content": "text/html; charset=UTF-8"
+      }
+    },
+    "body": {
+      "div": [
+        {
+          "@class": "nouvelle shadow",
+          "div": {
+            "@class": "nouvelles_holder_wrapper",
+            "div": {
+              "@class": "nouvelles_holder holder"
+            }
+          }
+        },
+        {
+          "@id": "nouvelles_content_all",
+          "div": [
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "17"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Janvier 2020"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Descriptif options du S6"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Veuillez-trouver en pièce jointe les descriptions des options du S6."
+                  }
+                },
+                {
+                  "@class": "newsAttachments",
+                  "a": {
+                    "@title": "DescriptionOptions-1.pdf",
+                    "@href": "https://ent.univ-paris13.fr/ajax?__application=nouvelles&amp;__class=Nouvelles&amp;__function=getAttachment&amp;__args[]=46636",
+                    "#text": "DescriptionOptions-1.pdf"
+                  },
+                  "#text": "Pièce(s) jointe(s) :"
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Aline DACHEUX"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "17/01/2020 à 08:34"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "13"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Janvier 2020"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "rappel : UE LIBRE ELOQUENCE"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Chères\n étudiantes, chers étudiants, \n\nQuand on ne sait pas nager, on a encore plus peur de se jeter à l'eau. \nC'est la même chose pour parler : on craint d'autant plus de prendre la \nparole en pubic quand on n'a pas appris les bases de l'éloquence. La \nbonne nouvelle ? On peut apprendre l'art oratoire,  comme on peut \napprendre à nager. Pour cela, il faut acquérir quelques techniques, il \nfaut les pratiquer, et il faut y prendre du plaisir. \n\nNous vous proposons ce semestre une unité d'enseignement (UE) libre, de \n18 heures en 12 séances de 1h30, à l'heure du midi, selon un calendrier \ncompatible avec vos enseignements dans vos années d'étude respectives. \nLe cours s'adresse à toutes les étudiantes et tous les étudiants qui \nveulent s'améliorer et acquérir de l'aisance et du naturel quand elles \net ils doivent prendre la parole (examen, entretien, défense d'un projet\n ou d'idées ... ). Vous serez répartis en trois groupes de douze \nétudiants maximum.\n\nVous l'avez compris, les places sont rares.  Ferez-vous partie des \nquarante-huit étudiants qui participeront à cette aventure ? Pour le \nsavoir, faites-nous parvenir le plus rapidement possible votre \ncandidature. \n\nVous préciserez par un mail envoyé à  tsepulchre@gmail.com votre prénom,\n votre nom, votre année de licence et votre formation ;  vous écrirez en\n quelques lignes pourquoi vous voulez participer à cette UE et ce que \nvous attendez de la formation. Vous nous convaincrez de votre \nmotivation.\n\nVous serez averti par mail si votre candidature est retenue et quand \naura lieu la première séance. \n\nAttention, l'assiduité est essentielle à cet enseignement, ainsi que le \ntravail en  groupe. Non seulement, vous perdrez votre temps si vous ne \nvenez qu'aux deux ou trois premières séances, mais en plus, vous \ngaspillerez la place dont un autre étudiant aurait pu tirer parti et \nvous priverez ceux qui restent de votre présence, indispensable à la \ndynamique de groupe. Donc, nous attendons une régularité absolue de \nvotre part, ne vous engagez pas si vous ne pouvez pas tenir le rythme. \nEntre les séances, il y a très peu de travail à la maison, tout se passe\n vraiment en séance.\n\nNous attendons vos inscriptions dès aujourd'hui et jusqu'au 15 janvier \n2020\n\nNous nous réjouissons de commencer ces cours avec vous, \n\nBien cordialement, \n\nL'équipe d'éloquence ..."
+                  }
+                },
+                {
+                  "@class": "newsAttachments",
+                  "a": {
+                    "@title": "affiche éloquence.pdf",
+                    "@href": "https://ent.univ-paris13.fr/ajax?__application=nouvelles&amp;__class=Nouvelles&amp;__function=getAttachment&amp;__args[]=46234",
+                    "#text": "affiche éloquence.pdf"
+                  },
+                  "#text": "Pièce(s) jointe(s) :"
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "13/01/2020 à 16:02"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "13"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Janvier 2020"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Forum des entreprises"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": ">\n>\n Chers étudiants et étudiantes, \n>\n>\n> Tout d'abord, nous sommes heureuses de vous souhaiter une \nexcellente année 2020. \n>\n> Elle commence bien, puisque, faut-il vous le rappeler, le 21e Forum\n des entreprises aura lieu ce jeudi 16 janvier, au Gymnase Jackson \nRichardson (salle bleue), de 9 heures à 16 heures. \n>\n> Nous insistons sur l'importance pour vous de la chance qui vous est\n offerte : rencontrer des entreprises où peut-être vous travaillerez, \ncomme stagiaire ou pourquoi pas comme salarié. \n>\n> Même si vous n'avez de projet précis, venez échanger avec des \nprofessionnels qui seront heureux de présenter leur métier, leur équipe,\n leur entreprise. \n>\n> N'oubliez pas d'imprimer quelques exemplaires de votre  CV et et de\n repasser (et d'améliorer) dans votre tête le petit \"elevator pitch\" que\n nous avons travaillé lors des dernières séances de Tec. \n>\n> En attendant, nous vous souhaitons une bonne reprise malgré les \ndifficultés de transport, \n>\n> Bien cordialement, \n>\n> Toute l'équipe Tec L3"
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Aline DACHEUX"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "13/01/2020 à 11:28"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "13"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Janvier 2020"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Convocation partiel fin de niveau 5 - L3 info"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Suite\n aux annulations des examens prévus tous les matins de cette semaine, \nveuillez trouver ci-joint la convocation mise à jour. Les nouvelles \ndates d'examen pour les examens déplacés vous seront communiquées \nrapidement. Bon courage pour vos examens."
+                  }
+                },
+                {
+                  "@class": "newsAttachments",
+                  "a": {
+                    "@title": "conv_L3_Info_FIN N5.pdf",
+                    "@href": "https://ent.univ-paris13.fr/ajax?__application=nouvelles&amp;__class=Nouvelles&amp;__function=getAttachment&amp;__args[]=46471",
+                    "#text": "conv_L3_Info_FIN N5.pdf"
+                  },
+                  "#text": "Pièce(s) jointe(s) :"
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Aline DACHEUX"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "13/01/2020 à 10:28"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "13"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Janvier 2020"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Contrôle TEC : 20/01"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Le\n contrôle de TEC initialement prévu fin décembre aura lieu lors du \npremier cours de TEC le mardi 20 janvier. Toutes les informations sur le\n programme de révisions sont sur l’ENT, cours TEC S5."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Aline DACHEUX"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "13/01/2020 à 08:48"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "12"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Janvier 2020"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Partiels L2 - L3 - semaine du 13 janvier"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Compte\n tenu de la poursuite du mouvement social dans les transports, et afin \nde permettre une présence optimale des étudiants aux épreuves, les \népreuves de L2 et L3 prévues le matin de la semaine du 13 janvier sont \nreportés à une date qui sera fixée ultérieurement. \nLes épreuves à partir de 12h sont maintenues.\n\nPrévoyez de vous déplacer aux heures pleines le matin pour ne pas avoir \nde souci de transport. Vous pourrez réviser dans des salles inoccupées \nou à la bibliothèque en attendant le début de vos épreuves"
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "12/01/2020 à 21:24"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "10"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Janvier 2020"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Lignes téléphoniques hors service"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Pour information, les lignes téléphoniques de plusieurs service de l'université sont hors service depuis 10h00 ce matin.\nN'hésitez pas à envoyer des mails."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Aline DACHEUX"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "10/01/2020 à 11:35"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "09"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Janvier 2020"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Report soutenances projet loT (internet des objets) : 20/01 à partir de 14h"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Report des soutenances du projet IoT au lundi 20 janvier à partir de 14h.\nPar conséquent, le rendu des projets est aussi reporté à la veille des  soutenances.\n\nRAPPEL : l'évaluation portera sur :\n\n* rapport au format pdf ;\n* code source sur Git (les échanges sur git);\n* une vidéo de 3 minutes ;\n* la soutenance et les slides\n* les appréciations lors de toutes les TPs"
+                  }
+                },
+                {
+                  "@class": "newsAttachments",
+                  "a": {
+                    "@title": "conv_L3_Info_FIN N5.pdf",
+                    "@href": "https://ent.univ-paris13.fr/ajax?__application=nouvelles&amp;__class=Nouvelles&amp;__function=getAttachment&amp;__args[]=46407",
+                    "#text": "conv_L3_Info_FIN N5.pdf"
+                  },
+                  "#text": "Pièce(s) jointe(s) :"
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Aline DACHEUX"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "09/01/2020 à 15:06"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "08"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Janvier 2020"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Horaires examen Algorithmiques des Graphes"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Comme indiqué sur la convocation des examens, le partiel d'Algorithmiques des graphes aura lieu de 9h à 11h.\n(Cela n'apparaissait pas sur Hyperplanning mais cela vient d'être modifié)"
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Aline DACHEUX"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "08/01/2020 à 11:02"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "06"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Janvier 2020"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "ATTENTION : modification horaires examen bases de données"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "ATTENTION : L'examen de bases de données aura lieu de 14h à 16h00 le lundi 13 janvier.\nVoir convocation modifiée."
+                  }
+                },
+                {
+                  "@class": "newsAttachments",
+                  "a": {
+                    "@title": "conv_L3_Info_FIN N5.pdf",
+                    "@href": "https://ent.univ-paris13.fr/ajax?__application=nouvelles&amp;__class=Nouvelles&amp;__function=getAttachment&amp;__args[]=46307",
+                    "#text": "conv_L3_Info_FIN N5.pdf"
+                  },
+                  "#text": "Pièce(s) jointe(s) :"
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Aline DACHEUX"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "06/01/2020 à 16:55"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "20"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Décembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Votre nouvelle convocation aux partiels de fin N5"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Bonjour à tous,\nVous trouverez en pièce jointe votre convocation aux partiels de fin niveau 5.\nAttention: celle-ci annule et remplace la précédente.\nBon courage à tous."
+                  }
+                },
+                {
+                  "@class": "newsAttachments",
+                  "a": {
+                    "@title": "conv_L3_Info_FIN N5.pdf",
+                    "@href": "https://ent.univ-paris13.fr/ajax?__application=nouvelles&amp;__class=Nouvelles&amp;__function=getAttachment&amp;__args[]=46207",
+                    "#text": "conv_L3_Info_FIN N5.pdf"
+                  },
+                  "#text": "Pièce(s) jointe(s) :"
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Khoukha OUARI"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "20/12/2019 à 09:21"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "18"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Décembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Le cours +TP logiciels libres"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Bonjour à tous,\nLe cours +TP de logiciels libres prévus ce jeudi 19/12 sont annulés, ils seront rattrapés le 6/01 de 13h45 à 18h45.\nCordialement."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Khoukha OUARI"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "18/12/2019 à 11:08"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "13"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Décembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "ANNULATION COURS ET ANGLAIS DU 17/12"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Les\n enseignements de TEC et Anglais du mardi 17 décembre sont annulés.\n\nLes étudiants des groupes 4A et 4B d'anglais qui n'ont pas fait leurs \nexposés doivent les envoyer à Mr DUNY sous format vidéo \n(duny.christophe@univ-paris13.fr)"
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "13/12/2019 à 17:26"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "09"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Décembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Votre convocation aux partiels de fin niveau 5"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Bonjour à tous,\n\nVous trouverez en pièce jointe votre convocation aux partiels de fin niveau N5 .\n\nJe vous en souhaite bonne réception.\n\nBien à vous."
+                  }
+                },
+                {
+                  "@class": "newsAttachments",
+                  "a": {
+                    "@title": "conv_L3_Info_FIN N5.pdf",
+                    "@href": "https://ent.univ-paris13.fr/ajax?__application=nouvelles&amp;__class=Nouvelles&amp;__function=getAttachment&amp;__args[]=45927",
+                    "#text": "conv_L3_Info_FIN N5.pdf"
+                  },
+                  "#text": "Pièce(s) jointe(s) :"
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Khoukha OUARI"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "09/12/2019 à 14:07"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "25"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Novembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Rattrapage TD; Groupe 2 Automate et theorie des langages"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Attention: un TD d'ATL est rattrapé le 11/12 de 10h15 à 11h45 en amphi Fermat au lieu de demain le 26/11."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Khoukha OUARI"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "25/11/2019 à 16:05"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "20"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Novembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Option: Salles machines pour le cours Internet des objets"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Attention: vos cours d'internet des objets prévus ce jour auront lieu en salle machines (F207, F205)."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Khoukha OUARI"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "20/11/2019 à 10:29"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "19"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Novembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "EPICERIE SOLIDAIRE ET PARTICIPATIVE"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Bonjour\n à toutes et à tous,\n\nC’est avec grand plaisirs que nous vous annonçons l’ouverture d'une \népicerie solidaire et participative au campus de Bobigny Paris 13.\n\nFini les fins de mois difficile et les trous dans le porte-monnaie. \nAnime ton épicerie selon ton emploi du temps et profite chaque semaine \ndes produits et offres disponibles.\n\nL’épicerie Alter’Nature vous accueil du lundi au jeudi  de 12 h 15 à 13 h\n 45. Alors n'hésite plus et viens choisir ton créneau. Premiers arrivés \npremiers servis !!\n\nAssociation Alter’Nature\nLocal R66 couloir de l'illustration\nEntrée avenue Convention"
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Valerie SZYMANSKI"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "19/11/2019 à 11:16"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "14"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Novembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Urgent: réunion présentation stage le 15/11"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Bonjour à tous,\nune réunion de présentation de stage sera organisée le vendredi 15/11 à la fin du cours bases de données en amphi C;\nVotre présence est indispensable à cette réunion."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Khoukha OUARI"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "14/11/2019 à 16:55"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "13"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Novembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Groupe 2"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Rattrapage du TD d'automates et théorie des langages  le mardi 19 novembre de 10h15 à 11h45 en amphi Darwin."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "13/11/2019 à 11:02"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "08"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Novembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Elections étudiantes du 26/11/2019"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Voir document ci-joint"
+                  }
+                },
+                {
+                  "@class": "newsAttachments",
+                  "a": [
+                    {
+                      "@title": "Courrier élections étudiants du 26.11.2019.pdf",
+                      "@href": "https://ent.univ-paris13.fr/ajax?__application=nouvelles&amp;__class=Nouvelles&amp;__function=getAttachment&amp;__args[]=45322",
+                      "#text": "Courrier élections étudiants du 26.11.2019.pdf"
+                    },
+                    {
+                      "@title": "aff_election-etudiant_oct2019.pdf",
+                      "@href": "https://ent.univ-paris13.fr/ajax?__application=nouvelles&amp;__class=Nouvelles&amp;__function=getAttachment&amp;__args[]=45360",
+                      "#text": "aff_election-etudiant_oct2019.pdf"
+                    }
+                  ],
+                  "#text": "Pièce(s) jointe(s) :"
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "08/11/2019 à 17:23"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "04"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Novembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Nouvelle convocation: partiel Logiciels libres"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Attention: la durée de l'examen de logiciels libres prévu le 13/11 a été modifiée.\nVeuillez consulter votre nouvelle convocation que vous trouverez en pièce jointe."
+                  }
+                },
+                {
+                  "@class": "newsAttachments",
+                  "a": {
+                    "@title": "conv_L3_InfoLOG Libre mi-N5.pdf",
+                    "@href": "https://ent.univ-paris13.fr/ajax?__application=nouvelles&amp;__class=Nouvelles&amp;__function=getAttachment&amp;__args[]=45240",
+                    "#text": "conv_L3_InfoLOG Libre mi-N5.pdf"
+                  },
+                  "#text": "Pièce(s) jointe(s) :"
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Khoukha OUARI"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "04/11/2019 à 14:02"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "04"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Novembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Annulation cours + TD Automate et théorie du 5 et 6 novembre"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Attention: Les cours+TD de Automate et théorie prévus le 5 et 6/11 sont tous annulés pour cette semaine."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Khoukha OUARI"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "04/11/2019 à 11:09"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "04"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Novembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Groupe 1: Algorithmiques des graphes"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Attention\n Groupe 1: le TD d'algorithmique des graphes prévu aujourd’hui avec Mr \nValencia est annulé, il sera replacé ultérieurement.\nCe message est destiné aux étudiants inscrits au groupe GR1."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Khoukha OUARI"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "04/11/2019 à 10:06"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "30"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Octobre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Attention: partiel Logiciel libre"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Bonjour,\nVous trouverez ci-jointe votre convocation au partiel de l'UE: LOGICIEL LIBRE de mi-niveau 5.\nBon courage à tous."
+                  }
+                },
+                {
+                  "@class": "newsAttachments",
+                  "a": {
+                    "@title": "conv_L3_InfoLOG Libre mi-N5.pdf",
+                    "@href": "https://ent.univ-paris13.fr/ajax?__application=nouvelles&amp;__class=Nouvelles&amp;__function=getAttachment&amp;__args[]=45192",
+                    "#text": "conv_L3_InfoLOG Libre mi-N5.pdf"
+                  },
+                  "#text": "Pièce(s) jointe(s) :"
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Khoukha OUARI"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "30/10/2019 à 17:37"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "18"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Octobre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Groupe 2: Urgent TP de bases de donnée"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Attention: Deux TP de bases de données sont organisés ce jour  du 18/10 de 12h15 à 15h30 en salle F206 pour le groupe 2.\nJe vous remercie de votre attention."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Khoukha OUARI"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "18/10/2019 à 09:41"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "17"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Octobre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Urgent,urgent :Votre contrat pédagogique"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Les\n étudiants qui n'ont pas encore validé leur contrat pédagogique:\n\n Vous êtes prié de bien lire votre contrat avant de le valider. \nAttention: Si vous souhaitez apporter des modifications à votre contrat \n(UE libre(sport..)UEs validées ou acquises par compensation que vous \nsouhaitez repasser, demande de dispenses ou d’aménagement de la durée de\n vos études, prise en compte des crédits validés dans d’autres \nétablissements…), vous devez cliquer sur \"je souhaite apporter des \nmodifications à mon contrat\" et justifier votre demande dans la rubrique\n \"modifications souhaitées\" en y joignant le cas échéant vos \njustificatifs. (avant le 17 octobre)\nSelon votre cas, un rendez-vous avec un directeur des études vous sera \néventuellement proposé.\n\nLes étudiants qui ont validé leur contrat sans apporter les \nmodifications (salarié, UE libre, ...) : \n\n Vous devez envoyer un émail en urgence sur l'adresse suivante: \nlicence.galilee@univ-paris13.fr avant le 24/10/2019\nVotre demande sera traitée ultérieurement."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Khoukha OUARI"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "17/10/2019 à 12:29"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "15"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Octobre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "ANGLAIS : GR3A ET GR3B"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Le cours d'anglais des groupes 3A et 3B du mardi 15 octobre est annulé."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "15/10/2019 à 11:40"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "14"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Octobre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "NOUVEAUX ARRIVANTS: Calculatrices IG"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Les nouveaux arrivants à l'institut Galilée:\nVous  pouvez  passer au secrétariat dès demain matin pour récupérer vos calculatrices."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Khoukha OUARI"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "14/10/2019 à 16:45"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "14"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Octobre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Cours option INTERNET DES OBJETS"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Ce message est destiné aux étudiants inscrits à l'option internet des objets.\nJe vous informe que 3 cours d'internet ces objets auront lieu ce mercredi  16/10 de 13h45 à 18h45 en salle C215."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Khoukha OUARI"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "14/10/2019 à 13:48"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "11"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Octobre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "CONTRAT PEDAGOGIQUE"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "a": {
+                      "@href": "http://candidatures.galilee.univ-paris13.fr/candi/contrat_pedagogique_licence/login.php",
+                      "@target": "_blank",
+                      "#text": "http://candidatures.galilee.univ-paris13.fr/candi/contrat_pedagogique_licence/login.php"
+                    },
+                    "#text": [
+                      "Votre contrat pédagogique est disponible en ligne : \ncliquez sur le lien ci dessous et lisez attentivement les instructions",
+                      "Vous devez effectuer cette démarche avant le 17 octobre\n\nAttention: une fois que vous aurez validé votre choix, vous ne pourrez pas recommencer."
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "11/10/2019 à 17:13"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "11"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Octobre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Convocation aux partiels de mi niveau 5"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Bonjour, \nVeuillez trouver ci-jointe votre convocation aux partiels de mi niveau 5.\n Cordialement."
+                  }
+                },
+                {
+                  "@class": "newsAttachments",
+                  "a": {
+                    "@title": "conv_L3_Info_N5.pdf",
+                    "@href": "https://ent.univ-paris13.fr/ajax?__application=nouvelles&amp;__class=Nouvelles&amp;__function=getAttachment&amp;__args[]=44937",
+                    "#text": "conv_L3_Info_N5.pdf"
+                  },
+                  "#text": "Pièce(s) jointe(s) :"
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Khoukha OUARI"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "11/10/2019 à 15:42"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "03"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Octobre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "ALTER PACES"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "a": {
+                      "@href": "https://www.parisdescartes.fr/alterpaces/",
+                      "@target": "_blank",
+                      "#text": "https://www.parisdescartes.fr/alterpaces/"
+                    },
+                    "#text": "Vous\n trouverez ci-joint les informations concernant le système ALTER PACES\n\nSi vous souhiatez candidater, vous devez constituer un dossier \ncomportant :\n\n- Une lettre d’appui du responsable de la formation attestant de \nl'excellence du parcours en L1/L2\n\n- Une lettre de motivation comportant la mention de la filière de santé \nchoisie\n\n-  Une copie de la pièce d’identité et du titre de séjour en cours de \nvalidité (si nécessaire)\n\n-  Une copie de la carte d’étudiant en cours de validité\n\n-  Un CV accompagné d'une attestation sur l'honneur manuscrite et signée\n indiquant ne pas voir épuisé ses deux tentatives en PACES\n\n-  Une photocopie de l’ensemble des relevés de notes depuis le \nbaccalauréat (baccalauréat inclus).\n\net le déposer avant le 9 octobre au bureau C 201 à l'Institut Galilée. \nNous transmettrons ce dossier au secrétariat de l'Alterpaces.\nVous devrez vous pré-inscrire impérativement sur le site de Paris \nDescartes avant de déposer votre dossier :"
+                  }
+                },
+                {
+                  "@class": "newsAttachments",
+                  "a": [
+                    {
+                      "@title": "licence-SMBH-alterPACES-1.pdf",
+                      "@href": "https://ent.univ-paris13.fr/ajax?__application=nouvelles&amp;__class=Nouvelles&amp;__function=getAttachment&amp;__args[]=44341",
+                      "#text": "licence-SMBH-alterPACES-1.pdf"
+                    },
+                    {
+                      "@title": "V13 PRES ALTERPACES2019.pptx",
+                      "@href": "https://ent.univ-paris13.fr/ajax?__application=nouvelles&amp;__class=Nouvelles&amp;__function=getAttachment&amp;__args[]=44736",
+                      "#text": "V13 PRES ALTERPACES2019.pptx"
+                    }
+                  ],
+                  "#text": "Pièce(s) jointe(s) :"
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "03/10/2019 à 21:24"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "27"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Septembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Rencontre CAP GEMINI avec les étudiantes"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Chères\n étudiantes, \n\nCapGemini, première société française de services du numérique \n(ESN),propose une rencontre ce jeudi 3 octobre aux ETUDIANTES. \n\n\nIl s'agit de vous  de vous mettre en contact, individuellement, avec une\n marraine,  quelqu'un qui travaille chez CapGemini et qui a traversé les\n difficultés des débutantes dans un monde professionnel encore un peu \nmasculin. Cette marraine pourra vous conseiller, individuellement, et \nvous accompagner dans l'élaboration de votre projet professionnel. Il ne\n sera pas forcément quesrion de vous proposer un stage ou un emploi, \nmais de vous donner une aide précieuse dans votre parcours, aide qui \npeut faire la différence ... \n\nJe ne peux pas vous en dire plus, venez à la rencontre de Alexandra \nLacombe, de Capgemini, qui vous expliquera ce projet de 12h à 13h à \nl'amphi Darwin. \n\nAttention, soyez courtoise, donc soyez à l'heure !\n\nMerci de votre attention.\n\n\nThérèse Sepulchre"
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "27/09/2019 à 18:08"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "27"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Septembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Club Robotique"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Veuillez consulter les documents ci -joint concernant le club de robotique.\n\nAttention, les places sont limitées"
+                  }
+                },
+                {
+                  "@class": "newsAttachments",
+                  "a": [
+                    {
+                      "@title": "Journee de rentree.pdf",
+                      "@href": "https://ent.univ-paris13.fr/ajax?__application=nouvelles&amp;__class=Nouvelles&amp;__function=getAttachment&amp;__args[]=44637",
+                      "#text": "Journee de rentree.pdf"
+                    },
+                    {
+                      "@title": "Description Atelier.pdf",
+                      "@href": "https://ent.univ-paris13.fr/ajax?__application=nouvelles&amp;__class=Nouvelles&amp;__function=getAttachment&amp;__args[]=44638",
+                      "#text": "Description Atelier.pdf"
+                    },
+                    {
+                      "@title": "PromoCrigAUTRE.pdf",
+                      "@href": "https://ent.univ-paris13.fr/ajax?__application=nouvelles&amp;__class=Nouvelles&amp;__function=getAttachment&amp;__args[]=44639",
+                      "#text": "PromoCrigAUTRE.pdf"
+                    }
+                  ],
+                  "#text": "Pièce(s) jointe(s) :"
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "27/09/2019 à 17:56"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "27"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Septembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "GROUPES ANGLAIS ET TEC"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Les groupes d'Anglais et TEC sont affichés dans le hall.\n\nSi votre nom n'apparaît pas veuillez vous présenter au bureau C 201 mardi matin.\n\nCeci ne concerne pas les parcours MAEF."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "27/09/2019 à 17:06"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "24"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Septembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Maintien des enseignements le jeudi 26 septembre"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Vous\n avez reçu une information concernant la manifestation Start Campus du \njeudi 26 septembre avec banalisation des enseignements de 11h à 15h.\n\nCela signifie qu'aucune note ne sera attribuée entre 11h et 15h et que \nles absences ne seront pas comptabilisées pendant ce créneau.\n\nLES ENSEIGNEMENTS SONT MAINTENUS."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "24/09/2019 à 17:01"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "24"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Septembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Acces aux bâtiments en trottinette"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Nous vous rappelons que l'accès aux bâtiments de l'Institut Galilée n'est pas autorisé pour les trottinettes électriques.\nCelles -ci ne doivent en aucun cas être entreposées dans les salles de cours."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "24/09/2019 à 16:15"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "19"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Septembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "SOGETI CAMPUS TOUR"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Pour\n la 2ème année consécutive, le bus du \"Sogeti Campus Tour\"s'arrête à \nl'Université Paris 13, devant l'Institut Galilée, lejeudi 26 septembre \nde 9h à 13h.\nSogeti est une entreprise majeure de conseil en systèmes etlogiciels \ninformatiques: des offres de stage et d'emploi serontproposées.\n\nVenez nombreux!"
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "19/09/2019 à 21:42"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "19"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Septembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "recrutement de tuteurs pour le service VOIE"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Le service VOIE recrute des tuteurs pour l'année universitaire 2019-2020\n\nMission : Promouvoir l’université et son offre de formation\n\nProfil : Étudiant(e) en L3, M1 et M2\n\nRémunération : 2x le taux du SMIC brut de l'heure (10,03 euros)\n\nComment postuler : Envoyez votre CV en indiquant dans l’objet du mél : CV Tutorat 2019-2020\n\nContact : orientationvilletaneuse.voie@univ-paris13.fr"
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "19/09/2019 à 21:36"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "18"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Septembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Cours et TD Logiciels libres supprimés mercredi 18/09 après midi"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Le cours et le TD de Logiciels libres sont annulés le mercredi 18/09 l'après midi."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "18/09/2019 à 09:31"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "13"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Septembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "UE LIBRE VOLTAIRE"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Vous\n n’étiez pas inscrit.e à l’Institut Galilée avant aujourd’hui\nou\nvous étiez inscrit.e et vous êtes motivé.e pour préparer le certificat \nVoltaire (Pour passer la certification, vous devrez verser une \ncontribution financière de 30 euros TTC. Les modalités de versement vous\n seront communiquées ultérieurement)\n\nSuivez le projet Voltaire en UE libre\n\nLes objectifs de cette UE\n- Repérer ses difficultés en orthographe lexicale et grammaticale et \ns’entraîner pour y remédier. La répétition des exercices ciblés sur vos \ndifficultés et l’entraînement régulier permettent de ne plus faire les \nfautes habituelles.\n-Valoriser son CV en y mentionnant ses compétences en orthographe au \ntravers du certificat Voltaire.\nL’utilisation est simple : tout se fait en ligne, il suffit d’avoir un \nordinateur ou un smartphone + l’identifiant (votre adresse mail) et le \nmot de passe reçu par mail.\nInscription :\nAttention : lettre de motivation à rédiger pour les L3 qui ont déjà \nsuivi l’UE libre auparavant. Cette lettre doit être déposée au \nsecrétariat des cours communs : Mme BAUDIN, bureau C 201 de 9h à 12h15 \ndu lundi au vendredi.\nL’accès à la plateforme Voltaire est payé par l’Institut Galilée, il \ns’agit donc de s’inscrire avec la volonté de fournir un travail régulier\n et sérieux.\n\nEvaluation :\nAttention : la note sera comptabilisée pour le N6\n\nPour les étudiants arrivés à l’université en L3 :\nLa note sera calculée en fonction de vos progrès et de votre implication\n sur le site entre octobre et début avril. \nUne heure de travail par semaine est un minimum.\n\nPour les autres :\nLa note sera calculée en fonction de l’implication et du résultat au \ncertificat qui aura lieu en avril.\n\nDate limite d’inscription : le 15 octobre                     \nResponsable : Véronique LANDES"
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "13/09/2019 à 17:31"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "12"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Septembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "L3 info - Changement emploi du temps du 12 /09"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "groupe 3 TP de probabilités : le TP de cet après midi est déplacé à 15h30 au lieu de 13h45 en salle F 206"
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "12/09/2019 à 09:57"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "09"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Septembre 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Modification emploi du temps le 10 septembre"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Le\n cours de logiciels libres initialement prévu le mercredi 11 septembre \naura lieu mardi 10 septembre de 15h30 à 18h45 en amphi B"
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "09/09/2019 à 17:18"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "17"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Juillet 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Secrétariat maths/info fermé à  partir du 19/07"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Le secrétariat des licences mathématiques et informatique sera fermé à partir du vendredi 19/07 à 12h.\nLe secrétariat ré-ouvrira à partir du lundi 2 septembre."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Aline DACHEUX"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "17/07/2019 à 12:03"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "02"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Juillet 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "RAPPEL INSCRIPTIONS REINSCRIPTIONS 2019/2020"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "a": {
+                      "@href": "http://inscriptions.univ-paris13.fr/je-me-reinscris/",
+                      "@target": "_blank",
+                      "#text": "http://inscriptions.univ-paris13.fr/je-me-reinscris/"
+                    },
+                    "#text": [
+                      "INSCRIPTION\n 2019-2020 en cycle Licence\nà l’Institut Galilée\n\nTrois jours après le jury de la session de rattrapage, vous pourrez \neffectuer votre réinscription en ligne (redoublement) sur le site des \ninscriptions",
+                      "de l’université dans la même mention que celle dans laquelle vous étiez\n précédemment inscrit. \nVous ne devez pas télécharger de dossier CIELL2\n\nSi vous souhaitez changer de mention de licence à l’Institut Galilée \nlors de votre redoublement, vous devez télécharger un dossier de \ncandidature sur CIELL2\n\nLa date limite des inscriptions administratives est fixée au 1er \nseptembre. Après cette date vous devrez demander une dérogation qui ne \nsera pas automatiquement acceptée.\n\n\nPour un passage en master, vous devez vous renseigner auprès du \nsecrétariat concerné."
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Loredana YACOUBI"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "02/07/2019 à 09:37"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            },
+            {
+              "@class": "nouvelle shadow",
+              "div": [
+                {
+                  "@class": "nouvelle_column_left",
+                  "div": {
+                    "@class": "nouvelle_column_left_date",
+                    "div": [
+                      {
+                        "@class": "nouvelle_column_left_date_jour",
+                        "#text": "09"
+                      },
+                      {
+                        "@class": "nouvelle_column_left_date_mois",
+                        "#text": "Mai 2019"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_right",
+                  "h2": {
+                    "@class": "nouvelles_contentheading",
+                    "#text": "Réinscription en cycle licence à l'Institut Galilée 2019-2020 (redoublement)"
+                  },
+                  "div": {
+                    "@class": "nouvelles_content",
+                    "#text": "Trois\n jours après le jury de la session de rattrapage, vous pourrez effectuer\n votre réinscription en ligne (redoublement ) sur le site des \ninscriptions de l’université dans la même mention que celle dans \nlaquelle vous étiez précédemment inscrit.\n\nVous ne devez pas télécharger de dossier CIELL 2\n\nLa date limite des inscriptions administratives est fixée au 1er \nseptembre. Après cette date vous devrez demander une dérogation qui ne \nsera pas automatiquement acceptée."
+                  }
+                },
+                {
+                  "@class": "nouvelle_column_bottom",
+                  "p": {
+                    "@class": "nouvelles_articleinfo",
+                    "#text": "Florence BAUDIN"
+                  },
+                  "div": {
+                    "@class": "nouvelles_articleinfo_time",
+                    "#text": "09/05/2019 à 09:37"
+                  }
+                },
+                {
+                  "@class": "spacer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@class": "nouvelle shadow",
+          "div": {
+            "@class": "nouvelles_holder_wrapper",
+            "div": {
+              "@class": "nouvelles_holder holder"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
