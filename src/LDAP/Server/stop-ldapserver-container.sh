@@ -1,1 +1,1 @@
-sudo docker stop openldapmyp13
+docker stop openldapmyp13
