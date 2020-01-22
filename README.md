@@ -4,5 +4,7 @@ Hello !
 
 This is the official repository for the MyP13 project. 
 
-youtube video : https://youtu.be/k4PI9jagAzA
+youtube video : Coming soooon ! 
+
+License : Attribution-NonCommercial-ShareAlike 2.0 Generic (CC BY-NC-SA 2.0)
 
