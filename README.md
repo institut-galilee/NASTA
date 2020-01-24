@@ -7,7 +7,7 @@ Coming sooon ! Patience !
 
 ## Members :
 
-* Nassim MESSAOUDI (nassim.messaoudi@edu.univ-paris13.fr) [NassimMS](https://github.com/nstarek "nstarek")
+* Nassim MESSAOUDI (nassim.messaoudi@edu.univ-paris13.fr) [NassimMS](https://github.com/msnassim "msnassim")
 * Tarek NAIT SAADA (tarek.naitsaada@edu.univ-paris13.fr) [TarekNS](https://github.com/nstarek "nstarek")
 * Marc JEAN PIERRE (marc.jean-pierre@edu.univ-paris13.fr) [MarcJP](https://github.com/marcjeanpierre "marcjeanpierre")
 
