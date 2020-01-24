@@ -13,8 +13,6 @@ Coming sooon ! Patience !
 
 ## Product's name : MyP13
 
-![](https://media.discordapp.net/attachments/642793522357076002/668217411123806209/WhatsApp_Image_2020-01-18_at_22.16.37.jpeg?width=384&height=683)
-
 ## What's MyP13 ?
 
 It's an IoT object/application which tries to centralize all services proposed by the university, for example access to the class planning, information provided on the university's website and many other usefull services. 
