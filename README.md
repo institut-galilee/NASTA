@@ -11,7 +11,7 @@ Coming sooon ! Patience !
 * Tarek NAIT SAADA (tarek.naitsaada@edu.univ-paris13.fr) [TarekNS](https://github.com/nstarek "nstarek")
 * Marc JEAN PIERRE (marc.jean-pierre@edu.univ-paris13.fr) [MarcJP](https://github.com/marcjeanpierre "marcjeanpierre")
 
-## IoT product's name : MyP13
+## Product's name : MyP13
 
 
 ## What's MyP13 ?
