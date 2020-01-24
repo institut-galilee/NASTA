@@ -45,7 +45,7 @@ Information gathering was generaly done using python. Then retrieved information
 
 * Raspberry Pi 3 B+
 * 1x Power supply (Raspberry)
-* HDMI cable for the touchscreenn
+* HDMI cable for the touchscreen
 * Plexiglass for the box
 * Touchscreen display 7"
 
