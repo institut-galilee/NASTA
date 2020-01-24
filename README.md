@@ -13,7 +13,6 @@ Coming sooon ! Patience !
 
 ## IoT product's name : MyP13
 
-![alt text] (https://github.com/institut-galilee/guessless/blob/master/docs/Design.png)
 
 ## What's MyP13 ?
 
