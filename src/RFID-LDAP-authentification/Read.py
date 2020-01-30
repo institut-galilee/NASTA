@@ -51,7 +51,7 @@ while continue_reading:
     else:
         try:
             with open("identifiant.txt","w") as myfile:
-myfile.write("Failed")
+                myfile.write("Failed")
         except IOError as e:
             self.log.error("Timeout Exception" % e)
         break
