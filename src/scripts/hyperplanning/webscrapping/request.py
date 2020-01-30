@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 import requests
 import json
@@ -14,7 +14,7 @@ jar.set('resolution','1920x1080')
 session.cookies = jar
 
 r = session.get(url)
-jasondata = json.loads(str(r.text)
+jsondata = json.loads(str(r.text)
 print(r)
 
 
