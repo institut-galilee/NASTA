@@ -1,20 +1,20 @@
 #!/bin/bash
 
-sudo python3 -m pip install icalendar;
+python3 -m pip install icalendar;
 
-sudo python3 -m pip install calendar;
+python3 -m pip install calendar;
 
-sudo python3 -m pip install csv;
+python3 -m pip install csv;
 
-sudo python3 -m pip install requests;
+python3 -m pip install requests;
 
-sudo python3 -m pip install urllib.request;
+python3 -m pip install urllib.request;
 
-sudo python3 -m pip install pandas;
+python3 -m pip install pandas;
 
-sudo python3 -m pip install pathlib;
+python3 -m pip install pathlib;
 
-sudo python3 -m pip install datetime;
+python3 -m pip install datetime;
 
 chmod u+x launcher.sh 
 
