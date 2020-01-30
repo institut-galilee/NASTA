@@ -59,7 +59,7 @@ if(a!=0):
                             myfile.write(mail+"\n")
                             myfile.write(formation+"\n")
                             db = sqlcipher.connect('pass.db')
-                            db.execute('pragma key="%s"',pragma_key)
+                            db.execute('pragma key= "%s" ' %pragma_key)
                             idd=student_number
                             row=db.execute('select password from pass where id='+idd).fetchone()
                             pw=row[0]
