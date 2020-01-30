@@ -50,4 +50,4 @@ Information gathering was generaly done using python. Then retrieved information
 * Touchscreen display 7"
 
 
-© 2020 MESSAOUDI Nassim - Tarek NAIT SAADA - Marc JEAN PIERRE. All rights reserved.
+© 2020 Nassim MESSAOUDI - Tarek NAIT SAADA - Marc JEAN PIERRE. All rights reserved.
