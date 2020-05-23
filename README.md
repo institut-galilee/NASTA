@@ -3,7 +3,7 @@
 # **MyP13 Project**
 
 ## Promotional video :
-Coming soon ! Patience ! 
+https://www.youtube.com/watch?v=k4PI9jagAzA 
 
 ## Members :
 
