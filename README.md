@@ -22,10 +22,11 @@ All this, by only putting your student card on the RFID scanner.
 
 When you put your student card on the RFID Reader, the application connects to the remote OpenLDAP server and checks if you're indeed in the database by performing an "ldapsearch". Once you've been successfully identified, you'll be able to access your class planning, the university plan and other services. You'll also be able to view the number of available computers in the classrooms in realtime.
 
-## Future enhancements
+## TODO
 
 * Add Active Directory support
 * Code Hardening 
+* Add a CAS client that can authenticate to ent.univ-paris13.fr
 
 ## Technicalities :
 
