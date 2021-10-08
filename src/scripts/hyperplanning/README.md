@@ -2,7 +2,7 @@
 ******************************
 Le softaware contient :      *
 3 fichier .py                *
-2 fichier.sh                 *
+2 fichier .sh                *
 ******************************
 
 [*] **********************[*]
@@ -11,7 +11,7 @@ Le softaware contient :      *
 
 1/ Assurez-vous d'être connecté à internet.
 
-2/ Ouvrez votre terminal et executez le fichier setup.sh ( en cas d'erreur taper la commande suivate:  'chmod u+x setup.sh').
+2/ Ouvrez votre terminal et executez le fichier setup.sh (en cas d'erreur taper la commande suivate:  'chmod u+x setup.sh').
 Un mot de passe sera sans doute demandé.
 Exemple: ./setup.sh
          bash setup.sh
