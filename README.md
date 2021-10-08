@@ -7,9 +7,9 @@ https://www.youtube.com/watch?v=k4PI9jagAzA
 
 ## Members :
 
-* Nassim MESSAOUDI (nassim.messaoudi@edu.univ-paris13.fr) [NassimMS](https://github.com/msnassim "msnassim")
-* Tarek NAIT SAADA (tarek.naitsaada@edu.univ-paris13.fr) [TarekNS](https://github.com/nstarek "nstarek")
-* Marc JEAN PIERRE (marc.jean-pierre@edu.univ-paris13.fr) [MarcJP](https://github.com/marcjeanpierre "marcjeanpierre")
+* Nassim MESSAOUDI [NassimMS](https://github.com/msnassim "msnassim")
+* Tarek NAIT SAADA [TarekNS](https://github.com/nstarek "nstarek")
+* Marc JEAN PIERRE [MarcJP](https://github.com/marcjeanpierre "marcjeanpierre")
 
 ## Product's name : MyP13
 
