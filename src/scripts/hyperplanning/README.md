@@ -1,6 +1,6 @@
 
 ******************************
-Le softaware contient :      *
+Le software contient :       *
 3 fichier .py                *
 2 fichier .sh                *
 ******************************
